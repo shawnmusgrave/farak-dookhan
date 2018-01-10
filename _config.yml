@@ -1,14 +1,14 @@
 # Site settings
-name: Slim Pickins Jekyll Theme
-email: 
-author: Chrisanthropic
+name: MA Drug Lab Scandals
+email: shawnmusgrave@gmail.com
+author: Shawn Musgrave
 
 keywords: jekyll, jekyll theme, jekyll framework, stuffthings
 description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme"
+  url: "https://shawnmusgrave.github.io/slim-pickins-jekyll-theme/"
 
 header: yes
 header_sm: images/banner-small.jpg
