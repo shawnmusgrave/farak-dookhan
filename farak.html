@@ -5,7 +5,7 @@ title: Sonja Farak
 
 <head>
 <style>
-#myDIV {
+#myDIV_court {
     width: 100%;
     display: none;
 }
@@ -33,18 +33,16 @@ title: Sonja Farak
 </ul>
 <hr>
 
-<body>
-
 <button onclick="myFunction()"><h2>Court cases</h2></button>
 
-<div id="myDIV">
+<div id="myDIV_court">
 	<p>Coming soon.</p>
 </div>
 
 
 <script>
 function myFunction() {
-    var x = document.getElementById("myDIV");
+    var x = document.getElementById("myDIV_court");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
