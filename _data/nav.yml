@@ -6,9 +6,9 @@
 
   subcategories:
     - subtitle: "overview"
-      subhref: "/documentation/farak.html"
+      subhref: "/farak.html"
     - subtitle: "timeline"
-      subhref: "/documentation/farak.html#timeline"
+      subhref: "farak.html#timeline"
     - subtitle: "navigation"
       subhref: "/documentation/nav.html"
     - subtitle: "banner"
