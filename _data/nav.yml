@@ -36,8 +36,4 @@
       
   
 - title: "contact"
-  external-subcategories:
-    - subtitle: "Jekyll forums"
-      subhref: "https://talk.jekyllrb.com/"
-    - subtitle: "Source Code"
-      subhref: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"
+  href: "contact.html"
