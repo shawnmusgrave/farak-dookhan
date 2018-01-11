@@ -7,7 +7,7 @@ title: Sonja Farak
 <style>
 #myDIV_court {
     width: 100%;
-    display: none;
+    display: "none";
 }
 </style>
 </head>
@@ -24,16 +24,7 @@ title: Sonja Farak
 <hr>
 <a name="documents"></a><h2>Key documents</h2>
 <hr>
-<a name="court"></a><h2>Court cases</h2>
-<hr>
-<a name="media"></a><h2>Media coverage</h2>
-<ul>
-	<li><a href='https://www.necir.org/2016/06/07/massachusetts-judge-pushes-prosecutors-emails-farak-case/ target='_blank'>Massachusetts judge pushes prosecutors for more emails in Farak case</a>, S. Musgrave, June 7, 2016, New England Center for Investigative Reporting & WGBH News.</li>
-	<li><a href='https://www.necir.org/2016/05/28/farak-withheld-evidence/ target='_blank'>Defense attorneys say withheld Farak notes implicate prosecutors</a>, S. Musgrave, May 28, 2016, New England Center for Investigative Reporting & WGBH News.</li>
-</ul>
-<hr>
-
-<button onclick="myFunction()"><h2>Court cases</h2></button>
+<a name="court"></a><button onclick="myFunction()"><h2>Court cases</h2></button>
 
 <div id="myDIV_court">
 	<p>Coming soon.</p>
@@ -50,6 +41,14 @@ function myFunction() {
     }
 }
 </script>
+<hr>
+<a name="media"></a><h2>Media coverage</h2>
+<ul>
+	<li><a href='https://www.necir.org/2016/06/07/massachusetts-judge-pushes-prosecutors-emails-farak-case/ target='_blank'>Massachusetts judge pushes prosecutors for more emails in Farak case</a>, S. Musgrave, June 7, 2016, New England Center for Investigative Reporting & WGBH News.</li>
+	<li><a href='https://www.necir.org/2016/05/28/farak-withheld-evidence/ target='_blank'>Defense attorneys say withheld Farak notes implicate prosecutors</a>, S. Musgrave, May 28, 2016, New England Center for Investigative Reporting & WGBH News.</li>
+</ul>
+<hr>
+
 
   </section>
     {% include asides/recent_posts.html %}
