@@ -33,7 +33,10 @@
       subhref: "/documentation/deploy.html"
     - subtitle: "basic use"
       subhref: "/documentation/use.html"
-      
   
+- title: "about"
+  href: "about.html"
+
 - title: "contact"
   href: "contact.html"
+
