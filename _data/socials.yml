@@ -1,16 +1,4 @@
-- title: "feed"
-  href: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme/atom.xml"
-
-- title: "googleplus"
-  href: "#"
-
-- title: "facebook"
-  href: "#"
-  
-- title: "tumblr"
-  href: "#"
-  
-- title: "twitter"
+  - title: "twitter"
   href: "https://twitter.com/shawnmusgrave"
 
 - title: "github"
