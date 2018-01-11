@@ -28,6 +28,8 @@
       subhref: "dookhan.html#documents"
     - subtitle: "court cases"
       subhref: "dookhan.html#court"
+    - subtitle: "media"
+      subhref: "dookhan.html#media"
   
 - title: "about"
   href: "about.html"
