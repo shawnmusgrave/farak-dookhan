@@ -79,12 +79,22 @@ function myFunction_court() {
 }
 </script>
 <hr>
-<a name="media"></a><h2>Media coverage</h2>
+<a name="media"></a><button onclick="myFunction_media()"><h2>Media coverage</h2></button>
+<div id="myDIV_media">
 <ul>
 	<li><a href='https://www.necir.org/2016/06/07/massachusetts-judge-pushes-prosecutors-emails-farak-case/ target='_blank'>Massachusetts judge pushes prosecutors for more emails in Farak case</a>, S. Musgrave, June 7, 2016, New England Center for Investigative Reporting & WGBH News.</li>
 	<li><a href='https://www.necir.org/2016/05/28/farak-withheld-evidence/ target='_blank'>Defense attorneys say withheld Farak notes implicate prosecutors</a>, S. Musgrave, May 28, 2016, New England Center for Investigative Reporting & WGBH News.</li>
-</ul>
-<hr>
+</ul></div>
+<script>
+function myFunction_media() {
+    var x = document.getElementById("myDIV_media");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
 
 
   </section>

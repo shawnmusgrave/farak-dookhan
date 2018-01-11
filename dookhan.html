@@ -3,19 +3,101 @@ layout: default
 title: Annie Dookhan
 ---
 
+<head>
+<style>
+	#myDIV_court {
+	    width: 100%;
+	    display: none;
+	}
+	#myDIV_docs {
+	    width: 100%;
+	    display: none;
+	}
+	#myDIV_media {
+	    width: 100%;
+	    display: none;
+	}
+	#myDIV_timeline {
+	    width: 100%;
+	    display: inline;
+	}
+</style>
+</head>
+
 <article class="row">
   <section class="small-12 large-8 columns page-content">
   
 <p>Annie Dookhan was arrested in September 2012.</p>
 
+
 <hr>
-<a name="timeline"></a><h2>Timeline</h2>
+<a name="timeline"></a><button onclick="myFunction_timeline()"><h2>Timeline</h2></button>
+<div id="myDIV_timeline">
+	<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PGrSqzNs8Wvs109ZPQ229XKvgaiDCeDSG8NDuEJesGM&font=Default&lang=en&initial_zoom=2&height=400' width='100%' height='400' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+</div>
+<script>
+function myFunction_timeline() {
+    var x = document.getElementById("myDIV_timeline");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
 <hr>
-<a name="documents"></a><h2>Key documents</h2>
+<a name="documents"></a><button onclick="myFunction_docs()"><h2>Key documents</h2></button>
+<div id="myDIV_docs">
+	<p>Coming soon.</p>
+</div>
+
+<script>
+function myFunction_docs() {
+    var x = document.getElementById("myDIV_docs");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
 <hr>
-<a name="court"></a><h2>Court cases</h2>
+<a name="court"></a><button onclick="myFunction_court()"><h2>Court cases</h2></button>
+
+<div id="myDIV_court">
+	<p>Coming soon.</p>
+</div>
+
+
+<script>
+function myFunction_court() {
+    var x = document.getElementById("myDIV_court");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
 <hr>
-<a name="media"></a><h2>Media coverage</h2>
+<a name="media"></a><button onclick="myFunction_media()"><h2>Media coverage</h2></button>
+<div id="myDIV_media">
+<ul>
+	<li><a href='https://www.necir.org/2016/06/07/massachusetts-judge-pushes-prosecutors-emails-farak-case/ target='_blank'>Massachusetts judge pushes prosecutors for more emails in Farak case</a>, S. Musgrave, June 7, 2016, New England Center for Investigative Reporting & WGBH News.</li>
+	<li><a href='https://www.necir.org/2016/05/28/farak-withheld-evidence/ target='_blank'>Defense attorneys say withheld Farak notes implicate prosecutors</a>, S. Musgrave, May 28, 2016, New England Center for Investigative Reporting & WGBH News.</li>
+</ul></div>
+<script>
+function myFunction_media() {
+    var x = document.getElementById("myDIV_media");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+<hr>
+
 
   </section>
     {% include asides/recent_posts.html %}
