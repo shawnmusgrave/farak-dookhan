@@ -5,10 +5,10 @@
   href: "farak.html"
 
   subcategories:
-    - subtitle: "sass"
-      subhref: "/documentation/sass.html"
-    - subtitle: "grid"
-      subhref: "/documentation/grid.html"
+    - subtitle: "overview"
+      subhref: "/documentation/farak.html"
+    - subtitle: "timeline"
+      subhref: "/documentation/farak.html#timeline"
     - subtitle: "navigation"
       subhref: "/documentation/nav.html"
     - subtitle: "banner"
