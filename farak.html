@@ -5,10 +5,22 @@ title: Sonja Farak
 
 <head>
 <style>
-#myDIV_court {
-    width: 100%;
-    display: "none";
-}
+	#myDIV_court {
+	    width: 100%;
+	    display: none;
+	}
+	#myDIV_docs {
+	    width: 100%;
+	    display: none;
+	}
+	#myDIV_media {
+	    width: 100%;
+	    display: none;
+	}
+	#myDIV_timeline {
+	    width: 100%;
+	    display: none;
+	}
 </style>
 </head>
 
@@ -22,7 +34,23 @@ title: Sonja Farak
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PGrSqzNs8Wvs109ZPQ229XKvgaiDCeDSG8NDuEJesGM&font=Default&lang=en&initial_zoom=2&height=400' width='100%' height='400' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 <hr>
-<a name="documents"></a><h2>Key documents</h2>
+<a name="documents"></a><button onclick="myFunction()"><h2>Key documents</h2></button>
+<div id="myDIV_docs">
+	<p>Coming soon.</p>
+</div>
+
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myDIV_docs");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+<hr>
 <hr>
 <a name="court"></a><button onclick="myFunction()"><h2>Court cases</h2></button>
 
