@@ -1,13 +1,7 @@
 - title: "home"
   href: "/"
 
-- title: "blog"
-  href: "/blog/"
-  
-- title: "blog"
-  href: "/blog/"
-
-- title: "documentation"
+- title: "farak"
   subcategories:
     - subtitle: "sass"
       subhref: "/documentation/sass.html"
@@ -26,7 +20,7 @@
     - subtitle: "SEO"
       subhref: "/documentation/seo.html"
 
-- title: "use"
+- title: "dookhan"
   subcategories:
     - subtitle: "installation"
       subhref: "/documentation/installation.html"
@@ -37,8 +31,6 @@
     - subtitle: "basic use"
       subhref: "/documentation/use.html"
       
-- title: "external"
-  external: "http://www.jekyllrb.com"
   
 - title: "Misc"
   external-subcategories:
