@@ -12,7 +12,7 @@
     - subtitle: "documents"
       subhref: "documents/farak/farak-documents.html"
     - subtitle: "court cases"
-      subhref: "farak.html#court"
+      subhref: "documents/farak/farak-cases.html"
     - subtitle: "media"
       subhref: "farak.html#media"
     
