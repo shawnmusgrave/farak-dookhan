@@ -27,7 +27,7 @@
     - subtitle: "documents"
       subhref: "documents/dookhan/dookhan-documents.html"
     - subtitle: "court cases"
-      subhref: "dookhan.html#court"
+      subhref: "documents/dookhan/dookhan-cases.html"
     - subtitle: "media"
       subhref: "dookhan.html#media"
   
