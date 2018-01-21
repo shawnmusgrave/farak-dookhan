@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Added: Comm v. Charles, Milette, & Superior Court"
+title: "Added: Comm v. Charles, Milette & Superior Court"
 date: 2018-01-18T16:44:01-08:00
 ---
 
