@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "Welcome"
+title: "Added: Comm v. Charles, Milette, & Superior Court"
 date: 2018-01-18T16:44:01-08:00
 ---
 
-**Welcome to the Mass. drug lab scandals archive.**
+In July 2013, the Mass. Supreme Judicial Court [ruled](http://masscases.com/cases/sjc/466/466mass63.html) on three cases — *Comm. v. Shubar Williams*; *Comm. v. Hector Milette*; and *District Attorney for the Eastern District v. Superior Court Department of the Trail Court* — that came out of Essex County. 
 
-The twin scandals at Massachusetts drug labs have posed a fundamental challenge to the state's criminal justice system and reshaped judicial precedents regarding government misconduct. The timeline surrounding them — from the arrests of the two chemists to the subsequent investigations to the eventual dismissal of more than 30,000 cases — is convoluted but relatively well-documented due to extensive litigation. These court battles unearthed some of the most crucial findings, particularly just how far back both Annie Dookhan's and Sonja Farak's misdeeds went, and the structural breakdowns that allowed them to go undetected for so long.
+The questions reported to the full SJC by Justice Margot Botsford in March 2013 concerned the authorities of the special magistrates appointed to handle the onslaught of appeals filed since Annie Dookhan's arrest. 
 
-In my reporting on the Hinton and Amherst labs, I have obtained so many thousands of pages about the scandals from court exhibits, public records requests, and other sources. Here I will compile these materials in one place, and will continue to build out the trove as I find gaps.  
+The SJC determined that the "magnitude of the allegations of serious and far-reaching misconduct by Dookhan at the Hinton drug lab cannot be overstated," and that the "exceptional circumstances" at hand allowed judges to stay Dookhan defendants' sentences pending motions for new trials. The court determined that the special magistrates themselves do not hold power to grant these stays, but the judges to whom they report do.
 
-This archive arose both to preserve my own santity and from the need for policymakers, reporters, and the public to access the primary documents and other materials regarding these scandals. As with my reporting, I aim here to look beyond the salacious details and to document the galling institutional failures that ultimately required unprecedented remedies.
+This case is also notable as an early instance in which the American Civil Liberties Union of Massachusetts pressed for the appellate courts to use superintendence powers in light of the still-unknown scale of the scandal. 
 
-I hope this archive will clarify and contextualize these breakdowns, and also provoke further questions. 
-
--*Shawn*
+See the documents [here](https://shawnmusgrave.github.io/farak-dookhan/documents/dookhan/dookhan-documents.html#charles-milette).
