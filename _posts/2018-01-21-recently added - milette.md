@@ -14,6 +14,6 @@ The SJC determined that the "magnitude of the allegations of serious and far-rea
 
 This case is also notable as an early instance in which the American Civil Liberties Union of Massachusetts urged top courts to use their superintendence powers in light of the still-unknown scale of the scandal, which the SJC would ultimately do in Bridgeman I: 
 
-<div style="width:80%">
+<div style="width:80%; margin-right: auto; margin-left: auto">
 	<div id="DV-viewer-4356691-Comm-v-Charles-amp-Milette-Milette-Opposition-to" class="DC-embed DC-embed-document DV-container"></div><script src="//assets.documentcloud.org/viewer/loader.js"></script><script>  DV.load("https://www.documentcloud.org/documents/4356691-Comm-v-Charles-amp-Milette-Milette-Opposition-to.js", {  responsive: true,    height: 500,    sidebar: false,    page: 14,    container: "#DV-viewer-4356691-Comm-v-Charles-amp-Milette-Milette-Opposition-to"  });</script><noscript>  <a href="https://assets.documentcloud.org/documents/4356691/Comm-v-Charles-amp-Milette-Milette-Opposition-to.pdf">Comm v Charles &amp; Milette - Milette Opposition to Essex DA Petition (PDF)</a>  <br />  <a href="https://assets.documentcloud.org/documents/4356691/Comm-v-Charles-amp-Milette-Milette-Opposition-to.txt">Comm v Charles &amp; Milette - Milette Opposition to Essex DA Petition (Text)</a></noscript>
 </div>
