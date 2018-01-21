@@ -11,6 +11,6 @@ The questions reported to the full SJC by Justice Margot Botsford in March 2013 
 The SJC determined that the "magnitude of the allegations of serious and far-reaching misconduct by Dookhan at the Hinton drug lab cannot be overstated," and that the "exceptional circumstances" at hand allowed judges to stay Dookhan defendants' sentences pending motions for new trials. The court determined that the special magistrates themselves do not hold power to grant these stays, but the judges to whom they report do.
 
 This case is also notable as an early instance in which the American Civil Liberties Union of Massachusetts pressed for top courts to use their superintendence powers in light of the still-unknown scale of the scandal, which the SJC would ultimately do in Bridgeman I. (See the ACLU of MA opposition to the Essex County DA's petition [here](https://www.documentcloud.org/documents/4356691-Comm-v-Charles-amp-Milette-Milette-Opposition-to.html/#document/p14/a399240).
-a href="https://www.documentcloud.org/documents/4356691-Comm-v-Charles-amp-Milette-Milette-Opposition-to.html/#document/p14/a399240" target="_blank">here</a>.)
+<a href="https://www.documentcloud.org/documents/4356691-Comm-v-Charles-amp-Milette-Milette-Opposition-to.html/#document/p14/a399240" target="_blank">here</a>.)
 
 See the documents [here](https://shawnmusgrave.github.io/farak-dookhan/documents/dookhan/dookhan-documents.html#charles-milette).
