@@ -18,7 +18,7 @@ Gaziano's order, embedded below, reports three basic questions to the SJC bench:
 
 The parties [filed motions in December](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago-dec2017-reserve-report-working-groups) as to reserving and reporting the case to the full court: 
 
-- In a joint submission, all eleven district attorneys argued that "it is unnecessary to report *any* questions to the Full Court." in light of the Dookhan scandal protocol established in *Bridgeman II*.
+- In a joint submission, all eleven district attorneys argued that "it is unnecessary to report *any* questions to the Full Court" in light of the Dookhan scandal protocol established in *Bridgeman II*. Further, they argued that the criminal justice system "is already designed with sufficient safeguards to guard against misconduct," including case law, the rules of criminal procedure, and professional conduct codes. "Simply put, there is no need for this Court to report a question as to whether the Full Court needs to fashion a prophylactic rule or standing order for future cases," their submission concluded.
 
 - The Committee for Public Counsel Services and American Civil Liberties Union of Massachusetts proposed two questions: 
 	1. Which Farak-related convictions should be dismissed with prejudice?
@@ -27,6 +27,8 @@ The parties [filed motions in December](https://shawnmusgrave.github.io/farak-do
 - The Massachusetts Attorney General's Office asked Gaziano to report two questions: 
 	1. What is a "Farak defendant"?
 	2. What remedy, if any, is appropriate for Farak defendants whose cases have not been dismissed by stipulation, and what other relief, if any, should be ordered? 
+
+Gaziano's order, then, rejected the district attorneys' argument on both fronts and passed along the questions proposed by both the petitioners and the Attorney General's Office.
 
 The case will be scheduled for argument in May 2018. 
 
