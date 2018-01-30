@@ -4,17 +4,29 @@ title: "SJC to consider dismissing all Farak cases"
 date: 2018-01-30T16:44:01-08:00
 ---
 
-Justice Frank Gaziano has reported *CPCS v. AGO* to the full Supreme Judicial Court. 
+In an order signed January 26, Justice Frank Gaziano has reported *CPCS v. AGO* to the full Supreme Judicial Court. 
 
 See my coverage for the *Boston Globe* here, and more documents from the case [here](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago). 
 
-Gaziano's order, embedded below, reports three questions to the SJC bench: 
+Gaziano's order, embedded below, reports three basic questions to the SJC bench: 
 
 1. Whether some or all of the defendants whose cases haven't yet been dismissed "are entitled to have their convictions vacated, and the drug charges against them dismissed with prejudice, given the undisputed misconduct of the assistant Attorneys General found by Judge Carey";
 
 2. Whether the definition of "Farak defendants" is too narrow — that is, the definition "should be expanded to include all defendants who pleaded guilty to a drug charge, admitted to sufficient facts on a drug charge, or were found guilty of a drug charge, if the alleged drugs were tested at the Amherst Laboratory during Farak's employment there, regardless whether Farak was the analyst or signed the certificates in their cases." 
 
 3. Whether the court should adopt "additional prophylactic measures to address future cases involving widespread prosecutorial misconduct."
+
+The parties [filed motions in December](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago-dec2017-reserve-report-working-groups) as to reserving and reporting the case to the full court: 
+
+- In a joint submission, the eleven district attorneys argued there was no need in light of the Dookhan scandal precedents, *Bridgeman I* and *Bridgeman II*.
+
+- The Committee for Public Counsel Services and American Civil Liberties Union of Massachusetts proposed two questions: 
+	1. Which Farak-related convictions should the Court dismiss with prejudice?
+	2. What other remedies or sanctions, if any, should be ordered in response to the egregious prosecutorial misconduct? 
+
+- The Massachusetts Attorney General's Office asked Gaziano to report two questions: 
+	1. What is a "Farak defendant"?
+	2. What remedy, if any, is appropriate for Farak defendants whose cases have not been dismissed by stipulation, and what other relief, if any, should be ordered? 
 
 The case will be scheduled for argument in May 2018. 
 
