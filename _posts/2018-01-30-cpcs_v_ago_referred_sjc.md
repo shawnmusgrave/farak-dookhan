@@ -18,10 +18,10 @@ Gaziano's order, embedded below, reports three basic questions to the SJC bench:
 
 The parties [filed motions in December](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago-dec2017-reserve-report-working-groups) as to reserving and reporting the case to the full court: 
 
-- In a joint submission, the eleven district attorneys argued there was no need in light of the Dookhan scandal precedents, *Bridgeman I* and *Bridgeman II*.
+- In a joint submission, all eleven district attorneys argued that "it is unnecessary to report *any* questions to the Full Court." in light of the Dookhan scandal protocol established in *Bridgeman II*.
 
 - The Committee for Public Counsel Services and American Civil Liberties Union of Massachusetts proposed two questions: 
-	1. Which Farak-related convictions should the Court dismiss with prejudice?
+	1. Which Farak-related convictions should be dismissed with prejudice?
 	2. What other remedies or sanctions, if any, should be ordered in response to the egregious prosecutorial misconduct? 
 
 - The Massachusetts Attorney General's Office asked Gaziano to report two questions: 
