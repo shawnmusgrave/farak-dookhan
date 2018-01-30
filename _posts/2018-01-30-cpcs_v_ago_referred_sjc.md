@@ -24,6 +24,7 @@ The parties [filed motions in December](https://shawnmusgrave.github.io/farak-do
 	1. Which Farak-related convictions should be dismissed with prejudice?
 	2. What other remedies or sanctions, if any, should be ordered in response to the egregious prosecutorial misconduct? 
 
+
 - The Massachusetts Attorney General's Office asked Gaziano to report two questions: 
 	1. What is a "Farak defendant"?
 	2. What remedy, if any, is appropriate for Farak defendants whose cases have not been dismissed by stipulation, and what other relief, if any, should be ordered? 
