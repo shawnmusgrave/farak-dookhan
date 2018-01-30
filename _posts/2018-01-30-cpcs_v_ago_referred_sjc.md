@@ -6,7 +6,7 @@ date: 2018-01-30T16:44:01-08:00
 
 On Monday, Justice Frank Gaziano reported *CPCS v. AGO* to the full Supreme Judicial Court. 
 
-See my coverage for the *Boston Globe* here. 
+See my coverage for the *Boston Globe* here, and more documents from the case [here](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago). 
 
 Gaziano's order, embedded below, reports three questions to the SJC bench: 
 
