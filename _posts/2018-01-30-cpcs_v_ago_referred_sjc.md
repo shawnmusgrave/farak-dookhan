@@ -4,7 +4,7 @@ title: "SJC to consider dismissing all Farak cases"
 date: 2018-01-30T16:44:01-08:00
 ---
 
-On Monday, Justice Frank Gaziano reported *CPCS v. AGO* to the full Supreme Judicial Court. 
+Justice Frank Gaziano has reported *CPCS v. AGO* to the full Supreme Judicial Court. 
 
 See my coverage for the *Boston Globe* here, and more documents from the case [here](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago). 
 
