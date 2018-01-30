@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Added: Comm v. Charles, Milette & Superior Court"
-date: 2018-01-18T16:44:01-08:00
+date: 2018-01-21T16:44:01-08:00
 ---
 
 In July 2013, the Mass. Supreme Judicial Court [ruled](http://masscases.com/cases/sjc/466/466mass63.html) on three cases — *Comm. v. Shubar Williams*; *Comm. v. Hector Milette*; and *District Attorney for the Eastern District v. Superior Court Department of the Trial Court* — that came out of Essex County. This was the first SJC decision regarding the Hinton scandal.
