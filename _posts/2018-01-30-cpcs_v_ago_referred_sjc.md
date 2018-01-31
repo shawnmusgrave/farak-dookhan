@@ -6,7 +6,7 @@ date: 2018-01-30T16:44:01-08:00
 
 In an order signed January 26, Justice Frank Gaziano has reported *CPCS v. AGO* to the full Supreme Judicial Court. 
 
-See my coverage for the *Boston Globe* here, and more documents from the case [here](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago). 
+See my coverage for the *Boston Globe* [here](https://www.bostonglobe.com/metro/2018/01/30/sjc-decide-whether-dismiss-all-cases-connected-former-drug-lab-chemist/74FLWu9e12lNFA3rfkM9ZO/story.html), and more documents from the case [here](https://shawnmusgrave.github.io/farak-dookhan/documents/farak/farak-documents.html#cpcs-ago). 
 
 Gaziano's order, embedded below, reports three basic questions to the SJC bench: 
 
