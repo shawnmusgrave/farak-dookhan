@@ -6,6 +6,8 @@ date: 2018-02-28T16:44:01-08:00
 
 In two lawsuits — one at the federal level and one to the top court in Massachusetts — Dookhan defendants whose charges were vacated are suing Massachusetts and top state officials, seeking the return of a range of fees and fines they paid in the course of their arrest, incarceration and probation. 
 
+Both cases rely on *Nelson v. Colorado,* a Supreme Court <a href="http://www.scotusblog.com/2017/04/opinion-analysis-states-cant-keep-money-collect-pursuant-subsequently-overturned-convictions/" target="_blank">case</a> from April 2017 that held the state of Colorado was obliged to refund various fees to a woman exonerated of a felony. (As it happens, the *Nelson* decision came out on April 19, 2017, the same day the Massachusetts Supreme Judicial Court vacated more than 20,000 Dookhan-related convictions.)
+
 See my coverage for the *Boston Globe* <a href="https://www.bostonglobe.com/metro/2018/02/23/dookhan-defendants-sue-for-return-probation-fees/AeG1WNKyOzDz5N95rd6gLN/story.html" target="_blank">here</a>. 
 
 In the federal class action suit, filed on Friday, February 23, 2018, three plaintiffs seek return of fees, fines, and property, including: 
