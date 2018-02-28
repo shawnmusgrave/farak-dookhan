@@ -4,7 +4,7 @@ title: "Dookhan defendants suing for refunds of fees and fines"
 date: 2018-01-30T16:44:01-08:00
 ---
 
-In two civil lawsuits — one at the federal level and one to the top court in Massachusetts — Dookhan defendants whose charges were vacated are suing Massachusetts and top state officials, seeking the return of a range of fees and fines they paid in the course of their arrest, incarceration and probation. 
+In two lawsuits — one at the federal level and one to the top court in Massachusetts — Dookhan defendants whose charges were vacated are suing Massachusetts and top state officials, seeking the return of a range of fees and fines they paid in the course of their arrest, incarceration and probation. 
 
 See my coverage for the *Boston Globe* <a href="https://www.bostonglobe.com/metro/2018/02/23/dookhan-defendants-sue-for-return-probation-fees/AeG1WNKyOzDz5N95rd6gLN/story.html" target="_blank">here</a>. 
 
