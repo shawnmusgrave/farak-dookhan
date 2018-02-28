@@ -27,6 +27,8 @@ For the suit to proceed, the court must first decide whether to certify the clas
 <div style="width:75%; margin-right: auto; margin-left: auto">
 	<div id="DV-viewer-4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1" class="DC-embed DC-embed-document DV-container"></div><script src="//assets.documentcloud.org/viewer/loader.js"></script><script>  DV.load("https://www.documentcloud.org/documents/4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.js", {  responsive: true,    height: 500,    sidebar: false,    container: "#DV-viewer-4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1"  });</script><noscript>  <a href="https://assets.documentcloud.org/documents/4390571/Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.pdf">Dookhan - Federal Class Action - Complaint - Dkt No 1 (PDF)</a>  <br />  <a href="https://assets.documentcloud.org/documents/4390571/Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.txt">Dookhan - Federal Class Action - Complaint - Dkt No 1 (Text)</a></noscript>
 </div>
+<br>
+<br>
 
 In a separate matter, the Massachusetts Supreme Judicial Court has agreed to hear argument from a Dookhan defendant who paid more than $2,000 in fees after pleading guilty to drug possession charges. 
 
