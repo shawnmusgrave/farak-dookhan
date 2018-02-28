@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Dookhan defendants suing for refunds of fees and fines"
+date: 2018-01-30T16:44:01-08:00
+---
+
+In two civil lawsuits — one at the federal level and one to the top court in Massachusetts — Dookhan defendants whose charges were vacated are suing Massachusetts and top state officials, seeking the return of a range of fees and fines they paid in the course of their arrest, incarceration and probation. 
+
+See my coverage for the *Boston Globe* <a href="https://www.bostonglobe.com/metro/2018/02/23/dookhan-defendants-sue-for-return-probation-fees/AeG1WNKyOzDz5N95rd6gLN/story.html" target="_blank">here</a>. 
+
+In the federal class action suit, filed on Friday, February 23, 2018, three plaintiffs seek return of fees, fines, and property, including: 
+
+ - Court costs
+ - Probation fees 
+ - Mandatory assessments (such as drug testing and substance abuse counseling
+ - Fines
+ - Restitution
+ - License-reinstatement fees
+ - Forfeited property
+
+ The plaintiffs also seek payment for "uncompensated labor," including "community service in lieu of required payments," according to the complaint embedded below. 
+
+For the suit to proceed, the court must decide whether to certify the class. 
+
+<div style="width:75%; margin-right: auto; margin-left: auto">
+	<div id="DV-viewer-4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1" class="DC-embed DC-embed-document DV-container"></div><script src="//assets.documentcloud.org/viewer/loader.js"></script><script>  DV.load("https://www.documentcloud.org/documents/4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.js", {  responsive: true,    height: 500,    sidebar: false,    container: "#DV-viewer-4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1"  });</script><noscript>  <a href="https://assets.documentcloud.org/documents/4390571/Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.pdf">Dookhan - Federal Class Action - Complaint - Dkt No 1 (PDF)</a>  <br />  <a href="https://assets.documentcloud.org/documents/4390571/Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.txt">Dookhan - Federal Class Action - Complaint - Dkt No 1 (Text)</a></noscript>
+</div>
