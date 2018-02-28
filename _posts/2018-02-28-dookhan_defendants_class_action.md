@@ -22,13 +22,13 @@ In the federal class action suit, filed on Friday, February 23, 2018, three plai
 
  The plaintiffs also seek payment for "uncompensated labor," including "community service in lieu of required payments," according to the complaint embedded below. 
 
-For the suit to proceed, the court must decide whether to certify the class. 
+For the suit to proceed, the court must first decide whether to certify the class. 
 
 <div style="width:75%; margin-right: auto; margin-left: auto">
 	<div id="DV-viewer-4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1" class="DC-embed DC-embed-document DV-container"></div><script src="//assets.documentcloud.org/viewer/loader.js"></script><script>  DV.load("https://www.documentcloud.org/documents/4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.js", {  responsive: true,    height: 500,    sidebar: false,    container: "#DV-viewer-4390571-Dookhan-Federal-Class-Action-Complaint-Dkt-No-1"  });</script><noscript>  <a href="https://assets.documentcloud.org/documents/4390571/Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.pdf">Dookhan - Federal Class Action - Complaint - Dkt No 1 (PDF)</a>  <br />  <a href="https://assets.documentcloud.org/documents/4390571/Dookhan-Federal-Class-Action-Complaint-Dkt-No-1.txt">Dookhan - Federal Class Action - Complaint - Dkt No 1 (Text)</a></noscript>
 </div>
 
-In a seperate matter, the Massachusetts Supreme Judicial Court has agreed to hear argument from a Dookhan defendant who paid more than $2,000 in fees after pleading guilty to drug possession charges. 
+In a separate matter, the Massachusetts Supreme Judicial Court has agreed to hear argument from a Dookhan defendant who paid more than $2,000 in fees after pleading guilty to drug possession charges. 
 
 See coverage from the *Boston Herald* <a href="http://www.bostonherald.com/news/local_coverage/2018/02/drug_lab_scandal_sjc_to_decide_if_defendants_get_money_back" target="_blank">here</a>. 
 
