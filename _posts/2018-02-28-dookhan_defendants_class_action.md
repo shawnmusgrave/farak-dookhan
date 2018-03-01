@@ -13,6 +13,7 @@ The cases rely on *Nelson v. Colorado,* a Supreme Court <a href="http://www.scot
 See my coverage for the *Boston Globe* <a href="https://www.bostonglobe.com/metro/2018/02/23/dookhan-defendants-sue-for-return-probation-fees/AeG1WNKyOzDz5N95rd6gLN/story.html" target="_blank">here</a>. 
 
 ***Stacy Foster et al v. Commonwealth of Massachusetts et al***
+
 In the federal class action suit, filed on Friday, February 23, 2018, three plaintiffs seek return of fees, fines, and property, including: 
 
  - Court costs
