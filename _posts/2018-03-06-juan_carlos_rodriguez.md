@@ -10,7 +10,7 @@ The case — *Commonwealth v. Juan Carlos Rodriguez* — is particularly notable
 
 From the ruling: 
 
-	*In yet another case affected by the wrongdoing of former State chemist Annie Dookhan [...] we must reverse a defendant's conviction of trafficking in heroin. In an effort to cure the taint from Dookhan's association with the case as primary chemist, a police officer testified that he performed a field test of the substance seized from the defendant, which proved that the substance was heroin. The testimony was admitted, over the defendant's objection without establishing the scientific reliability of the field test. We conclude that the admission of this evidence was prejudicial error and that the defendant is entitled to a new trial.*
+ > In yet another case affected by the wrongdoing of former State chemist Annie Dookhan [...] we must reverse a defendant's conviction of trafficking in heroin. In an effort to cure the taint from Dookhan's association with the case as primary chemist, a police officer testified that he performed a field test of the substance seized from the defendant, which proved that the substance was heroin. The testimony was admitted, over the defendant's objection without establishing the scientific reliability of the field test. We conclude that the admission of this evidence was prejudicial error and that the defendant is entitled to a new trial.*
 
 Read coverage from WBUR <a href="http://www.wbur.org/news/2018/02/20/dookhan-drug-field-test" target="_blank">here</a>. 
 
