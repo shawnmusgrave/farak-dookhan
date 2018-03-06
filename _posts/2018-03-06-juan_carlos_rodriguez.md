@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Appeals Court ruled field test insufficient to fix Dookhan's potential taint"
-date: 2018-03-06T15:17:01-08:00
+date: 2018-03-06T09:44:01-08:00
 ---
 
 In February, the Massachusetts Appeals Court issued a ruling that may open the Hinton Lab scandal just a bit wider. The court decided that a judge erred in allowing a police officer to testify regarding his field analysis on samples prior to their testing by Annie Dookhan, since the Commonwealth did not provide sufficient evidence that the test was reliable and scientifically valid. 
