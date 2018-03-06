@@ -8,6 +8,6 @@ In February, the Massachusetts Appeals Court issued a ruling that may open the H
 
 The case — *Commonwealth v. Juan Carlos Rodriguez* — is particularly notable in addressing the possibility that Annie Dookhan tampered with samples before they were sent to another lab for retesting. 
 
-The ruling is <a href="http://masscases.com/cases/app/92/92massappct774.html" target="_blank">here</a>, and the Appeals Court docket is <a href="http://www.ma-appellatecourts.org/search_number.php?dno=16-P-1569" target="_blank">here</a>. 
+Read coverage from WBUR <a href="http://www.wbur.org/news/2018/02/20/dookhan-drug-field-test" target="_blank">here</a>. The ruling is <a href="http://masscases.com/cases/app/92/92massappct774.html" target="_blank">here</a>, and the Appeals Court docket is <a href="http://www.ma-appellatecourts.org/search_number.php?dno=16-P-1569" target="_blank">here</a>. 
 
 <div id="DC-search-document-4403703-document-4403704" class="DC-embed DC-embed-search DC-search-container"></div><script src="//assets.documentcloud.org/embed/loader.js"></script><script>  dc.embed.load('https://www.documentcloud.org/search/embed/', {    q: "document: 4403703 document: 4403704",    container: "#DC-search-document-4403703-document-4403704",    title: "Commonwealth v. Juan Carlos Rodriguez",    order: "title",    per_page: 6,    search_bar: true,    organization: 1226  });</script><noscript>  <a href="https://www.documentcloud.org/public/search/document%3A%204403703%20document%3A%204403704">View/search document collection</a></noscript>
