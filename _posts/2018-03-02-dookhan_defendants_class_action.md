@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dookhan defendants suing for refunds of fees and fines"
-date: 2018-02-28T16:44:01-08:00
+date: 2018-03-02T16:44:01-08:00
 ---
 
 *UPDATE, March 1: After I published about the* Martinez *and* Scott *cases, a second SJC case came to my attention. This post has been updated to include this third case.*
