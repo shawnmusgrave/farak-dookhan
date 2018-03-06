@@ -6,7 +6,7 @@ date: 2018-03-06T09:44:01-08:00
 
 In February, the Massachusetts Appeals Court issued a ruling that may open the Hinton Lab scandal just a bit wider. The court decided that a judge erred in allowing a police officer to testify regarding his field analysis on samples prior to their testing by Annie Dookhan, since the Commonwealth did not provide sufficient evidence that the test was reliable and scientifically valid. 
 
-The case — *Commonwealth v. Juan Carlos Rodriguez* — is particularly notable in addressing Annie Dookhan's 
+The case — *Commonwealth v. Juan Carlos Rodriguez* — is particularly notable in addressing the possibility that Annie Dookhan tampered with samples before they were sent to another lab for retesting. 
 
 The ruling is <a href="http://masscases.com/cases/app/92/92massappct774.html" target="_blank">here</a>, and the Appeals Court docket is <a href="http://www.ma-appellatecourts.org/search_number.php?dno=16-P-1569" target="_blank">here</a>. 
 
