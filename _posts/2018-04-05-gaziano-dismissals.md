@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More than 11,000 Amherst drug lab cases dismissed"
+title: "More than 11,000 Amherst drug lab convictions dismissed"
 date: 2018-03-12T09:44:01-08:00
 ---
 
