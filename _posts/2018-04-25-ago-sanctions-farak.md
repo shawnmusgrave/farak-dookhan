@@ -23,3 +23,6 @@ Read my coverage in the *Boston Globe* [here](https://www.bostonglobe.com/metro/
 </div>
 
 **Amicus briefs**
+<div style="width:75%; margin-right: auto; margin-left: auto">
+	<div id="DC-search-document-4446567-document-4446568" class="DC-embed DC-embed-search DC-search-container"></div><script src="//assets.documentcloud.org/embed/loader.js"></script><script>  dc.embed.load('https://www.documentcloud.org/search/embed/', {    q: "document: 4446567 document: 4446568",    container: "#DC-search-document-4446567-document-4446568",    title: "CPCS v AGO - Amicus briefs",    order: "title",    per_page: 12,    search_bar: true,    organization: 1226  });</script><noscript>  <a href="https://www.documentcloud.org/public/search/document%3A%204446567%20document%3A%204446568">View/search document collection</a></noscript>
+</div>
