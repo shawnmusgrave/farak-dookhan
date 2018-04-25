@@ -9,7 +9,7 @@ Now that all eleven district attorneys in Massachusetts have agreed to dismiss e
 * Should the class of "Farak defendant" cases expand at all, such that other cases should be considered for dismissal? 
 * Should there be any prophylactic or punitive steps taken to address the egregious prosecutorial misconduct by two former assistant attorneys general and deter against future such misconduct?
 
-In their respondent briefs filed this past week, Attorney General Maura Healey and the district attorneys split on the first issue — Healey's office suggests dismissing additional Amherst lab cases in a period where Farak admitted she was stealing from other chemists' samples. They also split on whether the SJC should issue "standing orders" to codify the government's obligations when it comes to disclosing and redressing systemic misconduct.
+In their respondent briefs filed this past week, Attorney General Maura Healey and the district attorneys split on the first issue — Healey's office suggests dismissing additional Amherst lab cases in a period where Farak admitted she was stealing from other chemists' samples, while the district attorneys argue they've already dismissed all relevant Farak cases. The state and local prosecutors also split on whether the SJC should issue "standing orders" to codify the government's obligations when it comes to disclosing and redressing systemic misconduct.
 
 But they largely agree that no sanctions are needed to deter future such misconduct by prosecutors. 
 
